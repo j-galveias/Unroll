@@ -80,9 +80,7 @@ https://user-images.githubusercontent.com/32814782/211899523-55bb0995-5f79-4acb-
 
 
 Gameplay:
-
-https://user-images.githubusercontent.com/32814782/211899952-e18f8103-1a2d-4d85-b11f-ef52804aeee9.mp4
-
+https://drive.google.com/file/d/1XFz37uUbrs3Dqq-l0WbGPFg8E5Ilc0o8/view?usp=share_link
 
 
 
