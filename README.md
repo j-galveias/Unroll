@@ -40,6 +40,7 @@
 ## About The Project
 
 This is a game developed during the Game Development Methodology course.
+<br />
 It was displayed in the MOJO Games Showcase.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -72,12 +73,14 @@ To try out the last prototype-https://drive.google.com/file/d/1JunoLirkQkQe1twRI
 
 
 Trailer:
+
 https://user-images.githubusercontent.com/32814782/211899523-55bb0995-5f79-4acb-a3c6-18c33443bc45.mp4
 
 
 
 
 Gameplay:
+
 https://user-images.githubusercontent.com/32814782/211899952-e18f8103-1a2d-4d85-b11f-ef52804aeee9.mp4
 
 
