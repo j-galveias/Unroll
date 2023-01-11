@@ -49,7 +49,6 @@ It was displayed in the MOJO Games Showcase.
 ### Built With
 
 * [![Unity][Unity.js]][Unity-url]
-* [![Firebase][Firebase.js]][Firebase-url]
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
